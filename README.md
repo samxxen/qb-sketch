@@ -7,8 +7,8 @@ Copyright © 2024 codescript - All rights reservered, MIT license
 ## Prerequisites
 - [imgbb API key](https://api.imgbb.com)
 
-
-
+## Discord
+-https://discord.gg/codescript
 
 ## ImgBB Setup
 - Create an account with ImgBB
